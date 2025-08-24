@@ -1,7 +1,5 @@
 /*******************************************
 Statement - Print Hello World
-Programmer - Vineet Choudhary
-Written For - http://developerinsider.in
 ********************************************/
 
 #include <stdio.h>
@@ -11,5 +9,6 @@ void main()
 {
 	clrscr();
 	printf("Hello world\n");
+	printf("\n hi this is my first program on git hub");
 	getch();
 }
